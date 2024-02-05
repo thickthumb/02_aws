@@ -1,0 +1,22 @@
+{
+  "ami_id": {
+    "sensitive": false,
+    "type": "string",
+    "value": "ami-04a36ed0ea76a4edd"
+  },
+  "ec2_public_ip": {
+    "sensitive": false,
+    "type": "string",
+    "value": "54.193.86.246"
+  },
+  "tags": {
+    "sensitive": false,
+    "type": [
+      "map",
+      "string"
+    ],
+    "value": {
+      "name": "my linux-aws"
+    }
+  }
+}
